@@ -7,24 +7,21 @@
 
 # Tools Used
   * Power BI
-  * Power Query
+
+# KPIs
+  * Revenu
+  * Gross Margin
+  * % of Gross Margin
 
 # The Analysis
 
-  ### 1. Net Sales by Year & Quarter
+  ### 1. Revue, Gross Margin & % of Gross Margin by Suppliers
     
-  ### 2. Net Sales & Units by Region
-  
-  ### 3. Net Sales & Units by Product
- 
-  ### 4. Top 10 Sales Reps
+  ### 2. Revenu by Team & Category
 
   ![](Images/Sales_Records.png)
 
-
   # Insights
 
-  #### 1. There is a Drop in every 1st 2 Qtrs. in each year so need to dig deeper to validate these drops.
-  #### 2. A recommendation for the company to reduce cost it might consider removing a product like "Sunshine" 
-  as it has the highest sold units with a relatively low Net Sales or sales can be increased by increasing its price.
-  #### 3. Next in action is to extract the Bottom 10 Sales Reps and look for ways of improvements.
+  #### 1. 
+  #### 2. 
