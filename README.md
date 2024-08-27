@@ -1,5 +1,5 @@
 # Overview
-  An analysis made on sales records through calculating revenue & cost over sales teams & suppliers.
+  An analysis made on sales records through calculating revenue & cost over the sales teams & suppliers.
   
   For data source click her: [Source_Data](/Source_Data/Source_Data.rar/)
 
