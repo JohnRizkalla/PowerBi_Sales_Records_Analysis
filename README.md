@@ -3,8 +3,8 @@
   
   For data source click her: [Source_Data](/Source_Data/Source_Data.rar/)
 
-  Short video on LinkedIn: [Video](https://bit.ly/3WQ5XBZ)
-
+  Short video on LinkedIn: [Video](https://bit.ly/3WQ5XBZ](https://www.linkedin.com/posts/johnrizkalla_dataanalysis-salesanalysis-powerbi-activity-7234286642142797824-p8W3?utm_source=share&utm_medium=member_desktop))
+  
 # Tools Used
   * Power BI
 
